@@ -1,0 +1,4 @@
+# Simple convolution via Fourier Transform using the FFTW3 library
+# it's just to test the FFTW3
+g++ convolution.cc -lfftw3
+
